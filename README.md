@@ -11,3 +11,5 @@ Homework 4 - In progress
 Homework 5 - Please, review Homework5\Animation107\Content\Mannequin\MyAnimations
 
 Homework 6 - Please, review Homework6\MaskMat201_1\Content\MaskMat201_1\MyMaterials
+
+Homework 7 - Please, review Homework7\Content\MyBlueprints
