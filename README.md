@@ -13,3 +13,5 @@ Homework 5 - Please, review Homework5\Animation107\Content\Mannequin\MyAnimation
 Homework 6 - Please, review Homework6\MaskMat201_1\Content\MaskMat201_1\MyMaterials
 
 Homework 7 - Please, review Homework7\Content\MyBlueprints
+
+Homework 8 - Please, review Homework8\Content\MySolution
