@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\unreal projects\\calculator\\source\\calculator\\private\\number.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\calculatoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\unrealeditor\\development\\calculator\\definitions.calculator.h",
+            "d:\\documents\\unreal projects\\calculator\\source\\calculator\\private\\number.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\string",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iomanip",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xlocmon",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xloctime",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\sstream"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

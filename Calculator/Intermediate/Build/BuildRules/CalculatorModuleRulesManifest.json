@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documents\\Unreal Projects\\Calculator\\Source\\Calculator\\Calculator.Build.cs",
+		"D:\\Documents\\Unreal Projects\\Calculator\\Source\\Calculator.Target.cs",
+		"D:\\Documents\\Unreal Projects\\Calculator\\Source\\CalculatorEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

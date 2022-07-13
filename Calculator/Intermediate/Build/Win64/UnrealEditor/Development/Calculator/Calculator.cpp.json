@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\unreal projects\\calculator\\source\\calculator\\calculator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\calculatoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\unrealeditor\\development\\calculator\\definitions.calculator.h",
+            "d:\\documents\\unreal projects\\calculator\\source\\calculator\\calculator.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

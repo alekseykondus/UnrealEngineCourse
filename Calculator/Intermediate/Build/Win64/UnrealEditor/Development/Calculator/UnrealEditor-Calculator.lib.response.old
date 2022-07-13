@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Calculator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\CalculatorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorUW.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\MyCalculator.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\Calculator.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorGameModeBase.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\Calculator.init.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorGameModeBase.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\CalculatorUW.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\MyCalculator.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\Calculator\Intermediate\Build\Win64\UnrealEditor\Development\Calculator\UnrealEditor-Calculator.lib"

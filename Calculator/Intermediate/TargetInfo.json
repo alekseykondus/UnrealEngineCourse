@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Calculator",
+			"Path": "D:\\Documents\\Unreal Projects\\Calculator\\Source\\Calculator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CalculatorEditor",
+			"Path": "D:\\Documents\\Unreal Projects\\Calculator\\Source\\CalculatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

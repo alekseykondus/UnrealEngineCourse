@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\unreal projects\\calculator\\source\\calculator\\calculatorgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\calculatoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\unrealeditor\\development\\calculator\\definitions.calculator.h",
+            "d:\\documents\\unreal projects\\calculator\\source\\calculator\\calculatorgamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\documents\\unreal projects\\calculator\\intermediate\\build\\win64\\unrealeditor\\inc\\calculator\\calculatorgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
